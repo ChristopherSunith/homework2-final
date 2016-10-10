@@ -55,7 +55,7 @@ public class ItemAdapter extends ArrayAdapter<Item> {
             if (convertView == null) {
                 convertView = LayoutInflater.from(getContext()).inflate(R.layout.item, parent, false);
             }
-        TextView tvName = (TextView) convertView.findViewById(R.id.tvName);
+            TextView tvName = (TextView) convertView.findViewById(R.id.tvName);
         ImageView imageView =(ImageView) convertView.findViewById(R.id.imageView);
         // Populate the data into the template view using the data object
         tvName.setText(item.getItem() + "\n"+item.getX() +" // " +item.getY());

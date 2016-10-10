@@ -30,7 +30,7 @@ public class EditToDoItemActivity extends Activity {
         //String editItem = getIntent().getStringExtra("item");
         Item editItem = (Item)getIntent().getSerializableExtra("item");
         position = getIntent().getIntExtra("position", -1);
-        txtshow.setText(editItem.getTime());
+        //txtshow.setText(editItem.getTime());
         // show original content in the text field
         etItem = (EditText) findViewById(R.id.etEditItem);
         etItem.setText(editItem.getItem());

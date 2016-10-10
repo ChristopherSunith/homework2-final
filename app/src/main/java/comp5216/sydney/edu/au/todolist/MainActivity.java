@@ -48,7 +48,7 @@ import java.util.List;
 
 import com.facebook.FacebookSdk;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements CompoundButton.OnCheckedChangeListener {
     //define variables
     GridView gridView;
     ListView listView;
@@ -137,17 +137,16 @@ public class MainActivity extends AppCompatActivity {
         //这边往下是拍照时候获取地理位置信息
         lm = (LocationManager) this.getSystemService(Context.LOCATION_SERVICE);
 
-
-//        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
 //            // TODO: Consider calling
-//            //    ActivityCompat#requestPermissions
+           //    ActivityCompat#requestPermissions
 //            // here to request the missing permissions, and then overriding
-//            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
-//            //                                          int[] grantResults)
+             //public void onRequestPermissionsResult(int requestCode, String[] permissions,
+                                                  //  int[] grantResults)
 //            // to handle the case where the user grants the permission. See the documentation
 //            // for ActivityCompat#requestPermissions for more details.
 //            return;
-//        }
+        }
 
         //加try catch解决秒退情况
         try {
@@ -199,7 +198,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         swh_status = (Switch) findViewById(R.id.switch2);
-        swh_status.setOnCheckedChangeListener(this);
+        swh_status.setOnCheckedChangeListener(MainActivity.this);
 
 
         //reference the "listview" variable to the id-"listview" in the layout
@@ -242,6 +241,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
+
 
 
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
@@ -315,6 +315,7 @@ public class MainActivity extends AppCompatActivity {
     private void saveItemsToDatabase() {
 
         ToDoItem.deleteAll(ToDoItem.class);
+
         for (Item temp : items) {
             ToDoItem item = new ToDoItem(temp.getItem(), temp.getUrl(), temp.getX(), temp.getY());
             item.save();
