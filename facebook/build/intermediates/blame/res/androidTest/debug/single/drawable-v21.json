@@ -1,38 +1,14 @@
 [
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     }
 ]

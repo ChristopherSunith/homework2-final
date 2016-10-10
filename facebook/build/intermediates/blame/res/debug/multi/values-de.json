@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\debug\\values-de\\values-de.xml",
+        "outputFile": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 155
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 263
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 386
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 484
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 596
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 682
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 787
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 902
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 979
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1055
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1137
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1248
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1351
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1450
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1561
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1663
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1770
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1892
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 1994
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -372,13 +372,13 @@
                     "endOffset": 2168
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 2582,
+                        "startOffset": 2620,
                         "endColumn": 179,
-                        "endOffset": 2757
+                        "endOffset": 2795
                     }
                 }
             },
@@ -391,13 +391,13 @@
                     "endOffset": 2291
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 2328,
+                        "startOffset": 2363,
                         "endColumn": 122,
-                        "endOffset": 2446
+                        "endOffset": 2481
                     }
                 }
             },
@@ -410,13 +410,13 @@
                     "endOffset": 2424
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 2052,
+                        "startOffset": 2085,
                         "endColumn": 132,
-                        "endOffset": 2180
+                        "endOffset": 2213
                     }
                 }
             },
@@ -429,13 +429,13 @@
                     "endOffset": 2520
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 1956,
+                        "startOffset": 1988,
                         "endColumn": 95,
-                        "endOffset": 2047
+                        "endOffset": 2079
                     }
                 }
             },
@@ -448,13 +448,13 @@
                     "endOffset": 2591
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1241,
+                        "startOffset": 1264,
                         "endColumn": 70,
-                        "endOffset": 1307
+                        "endOffset": 1330
                     }
                 }
             },
@@ -467,13 +467,13 @@
                     "endOffset": 2666
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1166,
+                        "startOffset": 1188,
                         "endColumn": 74,
-                        "endOffset": 1236
+                        "endOffset": 1258
                     }
                 }
             },
@@ -486,13 +486,13 @@
                     "endOffset": 2732
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1890,
+                        "startOffset": 1921,
                         "endColumn": 65,
-                        "endOffset": 1951
+                        "endOffset": 1982
                     }
                 }
             },
@@ -505,13 +505,13 @@
                     "endOffset": 2807
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1815,
+                        "startOffset": 1845,
                         "endColumn": 74,
-                        "endOffset": 1885
+                        "endOffset": 1915
                     }
                 }
             },
@@ -524,13 +524,13 @@
                     "endOffset": 2881
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1387,
+                        "startOffset": 1412,
                         "endColumn": 73,
-                        "endOffset": 1456
+                        "endOffset": 1481
                     }
                 }
             },
@@ -543,13 +543,13 @@
                     "endOffset": 2974
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1461,
+                        "startOffset": 1487,
                         "endColumn": 92,
-                        "endOffset": 1549
+                        "endOffset": 1575
                     }
                 }
             },
@@ -562,13 +562,13 @@
                     "endOffset": 3049
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1740,
+                        "startOffset": 1769,
                         "endColumn": 74,
-                        "endOffset": 1810
+                        "endOffset": 1839
                     }
                 }
             },
@@ -581,13 +581,13 @@
                     "endOffset": 3124
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1312,
+                        "startOffset": 1336,
                         "endColumn": 74,
-                        "endOffset": 1382
+                        "endOffset": 1406
                     }
                 }
             },
@@ -600,13 +600,13 @@
                     "endOffset": 3209
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1554,
+                        "startOffset": 1581,
                         "endColumn": 84,
-                        "endOffset": 1634
+                        "endOffset": 1661
                     }
                 }
             },
@@ -619,13 +619,13 @@
                     "endOffset": 3310
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1639,
+                        "startOffset": 1667,
                         "endColumn": 100,
-                        "endOffset": 1735
+                        "endOffset": 1763
                     }
                 }
             },
@@ -638,13 +638,13 @@
                     "endOffset": 3375
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
-                        "startOffset": 2517,
+                        "startOffset": 2554,
                         "endColumn": 64,
-                        "endOffset": 2577
+                        "endOffset": 2614
                     }
                 }
             },
@@ -657,13 +657,13 @@
                     "endOffset": 3441
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 2451,
+                        "startOffset": 2487,
                         "endColumn": 65,
-                        "endOffset": 2512
+                        "endOffset": 2548
                     }
                 }
             },
@@ -676,13 +676,13 @@
                     "endOffset": 3584
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 2185,
+                        "startOffset": 2219,
                         "endColumn": 142,
-                        "endOffset": 2323
+                        "endOffset": 2357
                     }
                 }
             },
@@ -695,13 +695,13 @@
                     "endOffset": 3646
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-de\\messenger_button_strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-de\\messenger_button_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
-                        "startOffset": 1164,
+                        "startOffset": 1186,
                         "endColumn": 59,
-                        "endOffset": 1221
+                        "endOffset": 1243
                     }
                 }
             },
@@ -714,1461 +714,7 @@
                     "endOffset": 3747
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1999,
-                        "endColumn": 100,
-                        "endOffset": 2095
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\debug\\values-de\\values-de.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 104,
-                    "endOffset": 155
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 104,
-                        "endOffset": 155
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 160,
-                    "endColumn": 107,
-                    "endOffset": 263
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 160,
-                        "endColumn": 107,
-                        "endOffset": 263
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 268,
-                    "endColumn": 122,
-                    "endOffset": 386
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 268,
-                        "endColumn": 122,
-                        "endOffset": 386
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 391,
-                    "endColumn": 97,
-                    "endOffset": 484
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 391,
-                        "endColumn": 97,
-                        "endOffset": 484
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 489,
-                    "endColumn": 111,
-                    "endOffset": 596
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 489,
-                        "endColumn": 111,
-                        "endOffset": 596
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 601,
-                    "endColumn": 85,
-                    "endOffset": 682
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 601,
-                        "endColumn": 85,
-                        "endOffset": 682
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 687,
-                    "endColumn": 104,
-                    "endOffset": 787
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 687,
-                        "endColumn": 104,
-                        "endOffset": 787
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 792,
-                    "endColumn": 114,
-                    "endOffset": 902
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 792,
-                        "endColumn": 114,
-                        "endOffset": 902
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 907,
-                    "endColumn": 76,
-                    "endOffset": 979
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 907,
-                        "endColumn": 76,
-                        "endOffset": 979
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 984,
-                    "endColumn": 75,
-                    "endOffset": 1055
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 984,
-                        "endColumn": 75,
-                        "endOffset": 1055
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1060,
-                    "endColumn": 81,
-                    "endOffset": 1137
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1060,
-                        "endColumn": 81,
-                        "endOffset": 1137
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1142,
-                    "endColumn": 110,
-                    "endOffset": 1248
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1142,
-                        "endColumn": 110,
-                        "endOffset": 1248
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1253,
-                    "endColumn": 102,
-                    "endOffset": 1351
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1253,
-                        "endColumn": 102,
-                        "endOffset": 1351
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1356,
-                    "endColumn": 98,
-                    "endOffset": 1450
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1356,
-                        "endColumn": 98,
-                        "endOffset": 1450
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1455,
-                    "endColumn": 110,
-                    "endOffset": 1561
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1455,
-                        "endColumn": 110,
-                        "endOffset": 1561
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1566,
-                    "endColumn": 101,
-                    "endOffset": 1663
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1566,
-                        "endColumn": 101,
-                        "endOffset": 1663
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1668,
-                    "endColumn": 106,
-                    "endOffset": 1770
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1668,
-                        "endColumn": 106,
-                        "endOffset": 1770
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1775,
-                    "endColumn": 121,
-                    "endOffset": 1892
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1775,
-                        "endColumn": 121,
-                        "endOffset": 1892
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1897,
-                    "endColumn": 101,
-                    "endOffset": 1994
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1897,
-                        "endColumn": 101,
-                        "endOffset": 1994
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1999,
-                    "endColumn": 173,
-                    "endOffset": 2168
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 2582,
-                        "endColumn": 179,
-                        "endOffset": 2757
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2173,
-                    "endColumn": 122,
-                    "endOffset": 2291
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 4,
-                        "startOffset": 2328,
-                        "endColumn": 122,
-                        "endOffset": 2446
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2296,
-                    "endColumn": 132,
-                    "endOffset": 2424
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 2052,
-                        "endColumn": 132,
-                        "endOffset": 2180
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2429,
-                    "endColumn": 95,
-                    "endOffset": 2520
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1956,
-                        "endColumn": 95,
-                        "endOffset": 2047
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2525,
-                    "endColumn": 70,
-                    "endOffset": 2591
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1241,
-                        "endColumn": 70,
-                        "endOffset": 1307
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 2596,
-                    "endColumn": 74,
-                    "endOffset": 2666
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1166,
-                        "endColumn": 74,
-                        "endOffset": 1236
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 2671,
-                    "endColumn": 65,
-                    "endOffset": 2732
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 1890,
-                        "endColumn": 65,
-                        "endOffset": 1951
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 2737,
-                    "endColumn": 74,
-                    "endOffset": 2807
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 1815,
-                        "endColumn": 74,
-                        "endOffset": 1885
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 2812,
-                    "endColumn": 73,
-                    "endOffset": 2881
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 1387,
-                        "endColumn": 73,
-                        "endOffset": 1456
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 2886,
-                    "endColumn": 92,
-                    "endOffset": 2974
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 1461,
-                        "endColumn": 92,
-                        "endOffset": 1549
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 2979,
-                    "endColumn": 74,
-                    "endOffset": 3049
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1740,
-                        "endColumn": 74,
-                        "endOffset": 1810
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 3054,
-                    "endColumn": 74,
-                    "endOffset": 3124
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 1312,
-                        "endColumn": 74,
-                        "endOffset": 1382
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 3129,
-                    "endColumn": 84,
-                    "endOffset": 3209
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 1554,
-                        "endColumn": 84,
-                        "endOffset": 1634
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 3214,
-                    "endColumn": 100,
-                    "endOffset": 3310
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1639,
-                        "endColumn": 100,
-                        "endOffset": 1735
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 3315,
-                    "endColumn": 64,
-                    "endOffset": 3375
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 2517,
-                        "endColumn": 64,
-                        "endOffset": 2577
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 3380,
-                    "endColumn": 65,
-                    "endOffset": 3441
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 2451,
-                        "endColumn": 65,
-                        "endOffset": 2512
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 3446,
-                    "endColumn": 142,
-                    "endOffset": 3584
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 2185,
-                        "endColumn": 142,
-                        "endOffset": 2323
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 3589,
-                    "endColumn": 61,
-                    "endOffset": 3646
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-de\\messenger_button_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 2,
-                        "startOffset": 1164,
-                        "endColumn": 59,
-                        "endOffset": 1221
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 3651,
-                    "endColumn": 100,
-                    "endOffset": 3747
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1999,
-                        "endColumn": 100,
-                        "endOffset": 2095
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\debug\\values-de\\values-de.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 104,
-                    "endOffset": 155
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 104,
-                        "endOffset": 155
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 160,
-                    "endColumn": 107,
-                    "endOffset": 263
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 160,
-                        "endColumn": 107,
-                        "endOffset": 263
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 268,
-                    "endColumn": 122,
-                    "endOffset": 386
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 268,
-                        "endColumn": 122,
-                        "endOffset": 386
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 391,
-                    "endColumn": 97,
-                    "endOffset": 484
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 391,
-                        "endColumn": 97,
-                        "endOffset": 484
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 489,
-                    "endColumn": 111,
-                    "endOffset": 596
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 489,
-                        "endColumn": 111,
-                        "endOffset": 596
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 601,
-                    "endColumn": 85,
-                    "endOffset": 682
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 601,
-                        "endColumn": 85,
-                        "endOffset": 682
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 687,
-                    "endColumn": 104,
-                    "endOffset": 787
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 687,
-                        "endColumn": 104,
-                        "endOffset": 787
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 792,
-                    "endColumn": 114,
-                    "endOffset": 902
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 792,
-                        "endColumn": 114,
-                        "endOffset": 902
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 907,
-                    "endColumn": 76,
-                    "endOffset": 979
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 907,
-                        "endColumn": 76,
-                        "endOffset": 979
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 984,
-                    "endColumn": 75,
-                    "endOffset": 1055
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 984,
-                        "endColumn": 75,
-                        "endOffset": 1055
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1060,
-                    "endColumn": 81,
-                    "endOffset": 1137
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1060,
-                        "endColumn": 81,
-                        "endOffset": 1137
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1142,
-                    "endColumn": 110,
-                    "endOffset": 1248
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1142,
-                        "endColumn": 110,
-                        "endOffset": 1248
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1253,
-                    "endColumn": 102,
-                    "endOffset": 1351
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1253,
-                        "endColumn": 102,
-                        "endOffset": 1351
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1356,
-                    "endColumn": 98,
-                    "endOffset": 1450
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1356,
-                        "endColumn": 98,
-                        "endOffset": 1450
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1455,
-                    "endColumn": 110,
-                    "endOffset": 1561
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1455,
-                        "endColumn": 110,
-                        "endOffset": 1561
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1566,
-                    "endColumn": 101,
-                    "endOffset": 1663
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1566,
-                        "endColumn": 101,
-                        "endOffset": 1663
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1668,
-                    "endColumn": 106,
-                    "endOffset": 1770
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1668,
-                        "endColumn": 106,
-                        "endOffset": 1770
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1775,
-                    "endColumn": 121,
-                    "endOffset": 1892
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1775,
-                        "endColumn": 121,
-                        "endOffset": 1892
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1897,
-                    "endColumn": 101,
-                    "endOffset": 1994
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1897,
-                        "endColumn": 101,
-                        "endOffset": 1994
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1999,
-                    "endColumn": 173,
-                    "endOffset": 2168
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 2582,
-                        "endColumn": 179,
-                        "endOffset": 2757
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2173,
-                    "endColumn": 122,
-                    "endOffset": 2291
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 4,
-                        "startOffset": 2328,
-                        "endColumn": 122,
-                        "endOffset": 2446
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2296,
-                    "endColumn": 132,
-                    "endOffset": 2424
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 2052,
-                        "endColumn": 132,
-                        "endOffset": 2180
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2429,
-                    "endColumn": 95,
-                    "endOffset": 2520
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1956,
-                        "endColumn": 95,
-                        "endOffset": 2047
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2525,
-                    "endColumn": 70,
-                    "endOffset": 2591
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1241,
-                        "endColumn": 70,
-                        "endOffset": 1307
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 2596,
-                    "endColumn": 74,
-                    "endOffset": 2666
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1166,
-                        "endColumn": 74,
-                        "endOffset": 1236
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 2671,
-                    "endColumn": 65,
-                    "endOffset": 2732
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 1890,
-                        "endColumn": 65,
-                        "endOffset": 1951
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 2737,
-                    "endColumn": 74,
-                    "endOffset": 2807
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 1815,
-                        "endColumn": 74,
-                        "endOffset": 1885
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 2812,
-                    "endColumn": 73,
-                    "endOffset": 2881
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 1387,
-                        "endColumn": 73,
-                        "endOffset": 1456
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 2886,
-                    "endColumn": 92,
-                    "endOffset": 2974
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 1461,
-                        "endColumn": 92,
-                        "endOffset": 1549
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 2979,
-                    "endColumn": 74,
-                    "endOffset": 3049
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1740,
-                        "endColumn": 74,
-                        "endOffset": 1810
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 3054,
-                    "endColumn": 74,
-                    "endOffset": 3124
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 1312,
-                        "endColumn": 74,
-                        "endOffset": 1382
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 3129,
-                    "endColumn": 84,
-                    "endOffset": 3209
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 1554,
-                        "endColumn": 84,
-                        "endOffset": 1634
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 3214,
-                    "endColumn": 100,
-                    "endOffset": 3310
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1639,
-                        "endColumn": 100,
-                        "endOffset": 1735
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 3315,
-                    "endColumn": 64,
-                    "endOffset": 3375
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 2517,
-                        "endColumn": 64,
-                        "endOffset": 2577
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 3380,
-                    "endColumn": 65,
-                    "endOffset": 3441
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 2451,
-                        "endColumn": 65,
-                        "endOffset": 2512
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 3446,
-                    "endColumn": 142,
-                    "endOffset": 3584
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 2185,
-                        "endColumn": 142,
-                        "endOffset": 2323
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 3589,
-                    "endColumn": 61,
-                    "endOffset": 3646
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-de\\messenger_button_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 2,
-                        "startOffset": 1164,
-                        "endColumn": 59,
-                        "endOffset": 1221
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 3651,
-                    "endColumn": 100,
-                    "endOffset": 3747
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

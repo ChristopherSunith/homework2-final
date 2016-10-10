@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\debug\\values-gu\\values-gu.xml",
+        "outputFile": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 218
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 2577,
+                        "startOffset": 2615,
                         "endColumn": 173,
-                        "endOffset": 2746
+                        "endOffset": 2784
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 329
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 2335,
+                        "startOffset": 2370,
                         "endColumn": 110,
-                        "endOffset": 2441
+                        "endOffset": 2476
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 450
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 2067,
+                        "startOffset": 2100,
                         "endColumn": 120,
-                        "endOffset": 2183
+                        "endOffset": 2216
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 543
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 1974,
+                        "startOffset": 2006,
                         "endColumn": 92,
-                        "endOffset": 2062
+                        "endOffset": 2094
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 614
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1238,
+                        "startOffset": 1261,
                         "endColumn": 70,
-                        "endOffset": 1304
+                        "endOffset": 1327
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 686
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1166,
+                        "startOffset": 1188,
                         "endColumn": 71,
-                        "endOffset": 1233
+                        "endOffset": 1255
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 756
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1904,
+                        "startOffset": 1935,
                         "endColumn": 69,
-                        "endOffset": 1969
+                        "endOffset": 2000
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 828
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1832,
+                        "startOffset": 1862,
                         "endColumn": 71,
-                        "endOffset": 1899
+                        "endOffset": 1929
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 904
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1387,
+                        "startOffset": 1412,
                         "endColumn": 75,
-                        "endOffset": 1458
+                        "endOffset": 1483
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 997
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1463,
+                        "startOffset": 1489,
                         "endColumn": 92,
-                        "endOffset": 1551
+                        "endOffset": 1577
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 1075
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1754,
+                        "startOffset": 1783,
                         "endColumn": 77,
-                        "endOffset": 1827
+                        "endOffset": 1856
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 1153
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1309,
+                        "startOffset": 1333,
                         "endColumn": 77,
-                        "endOffset": 1382
+                        "endOffset": 1406
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 1243
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1556,
+                        "startOffset": 1583,
                         "endColumn": 89,
-                        "endOffset": 1641
+                        "endOffset": 1668
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 1351
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1646,
+                        "startOffset": 1674,
                         "endColumn": 107,
-                        "endOffset": 1749
+                        "endOffset": 1777
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 1415
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
-                        "startOffset": 2513,
+                        "startOffset": 2550,
                         "endColumn": 63,
-                        "endOffset": 2572
+                        "endOffset": 2609
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 1482
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 2446,
+                        "startOffset": 2482,
                         "endColumn": 66,
-                        "endOffset": 2508
+                        "endOffset": 2544
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1629
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 2188,
+                        "startOffset": 2222,
                         "endColumn": 146,
-                        "endOffset": 2330
+                        "endOffset": 2364
                     }
                 }
             },
@@ -334,707 +334,13 @@
                     "endOffset": 1690
                 },
                 "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\src\\main\\res\\values-gu\\messenger_button_strings.xml",
+                    "file": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\src\\main\\res\\values-gu\\messenger_button_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 2,
-                        "startOffset": 1164,
+                        "startOffset": 1186,
                         "endColumn": 58,
-                        "endOffset": 1220
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\debug\\values-gu\\values-gu.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 167,
-                    "endOffset": 218
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 2577,
-                        "endColumn": 173,
-                        "endOffset": 2746
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 223,
-                    "endColumn": 110,
-                    "endOffset": 329
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 4,
-                        "startOffset": 2335,
-                        "endColumn": 110,
-                        "endOffset": 2441
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 334,
-                    "endColumn": 120,
-                    "endOffset": 450
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 2067,
-                        "endColumn": 120,
-                        "endOffset": 2183
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 455,
-                    "endColumn": 92,
-                    "endOffset": 543
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1974,
-                        "endColumn": 92,
-                        "endOffset": 2062
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 548,
-                    "endColumn": 70,
-                    "endOffset": 614
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1238,
-                        "endColumn": 70,
-                        "endOffset": 1304
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 619,
-                    "endColumn": 71,
-                    "endOffset": 686
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1166,
-                        "endColumn": 71,
-                        "endOffset": 1233
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 691,
-                    "endColumn": 69,
-                    "endOffset": 756
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 1904,
-                        "endColumn": 69,
-                        "endOffset": 1969
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 761,
-                    "endColumn": 71,
-                    "endOffset": 828
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 1832,
-                        "endColumn": 71,
-                        "endOffset": 1899
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 833,
-                    "endColumn": 75,
-                    "endOffset": 904
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 1387,
-                        "endColumn": 75,
-                        "endOffset": 1458
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 909,
-                    "endColumn": 92,
-                    "endOffset": 997
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 1463,
-                        "endColumn": 92,
-                        "endOffset": 1551
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1002,
-                    "endColumn": 77,
-                    "endOffset": 1075
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1754,
-                        "endColumn": 77,
-                        "endOffset": 1827
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1080,
-                    "endColumn": 77,
-                    "endOffset": 1153
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 1309,
-                        "endColumn": 77,
-                        "endOffset": 1382
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1158,
-                    "endColumn": 89,
-                    "endOffset": 1243
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 1556,
-                        "endColumn": 89,
-                        "endOffset": 1641
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1248,
-                    "endColumn": 107,
-                    "endOffset": 1351
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1646,
-                        "endColumn": 107,
-                        "endOffset": 1749
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1356,
-                    "endColumn": 63,
-                    "endOffset": 1415
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 2513,
-                        "endColumn": 63,
-                        "endOffset": 2572
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1420,
-                    "endColumn": 66,
-                    "endOffset": 1482
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 2446,
-                        "endColumn": 66,
-                        "endOffset": 2508
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1487,
-                    "endColumn": 146,
-                    "endOffset": 1629
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 2188,
-                        "endColumn": 146,
-                        "endOffset": 2330
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1634,
-                    "endColumn": 60,
-                    "endOffset": 1690
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\src\\main\\res\\values-gu\\messenger_button_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 2,
-                        "startOffset": 1164,
-                        "endColumn": 58,
-                        "endOffset": 1220
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\debug\\values-gu\\values-gu.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 167,
-                    "endOffset": 218
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 2577,
-                        "endColumn": 173,
-                        "endOffset": 2746
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 223,
-                    "endColumn": 110,
-                    "endOffset": 329
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 4,
-                        "startOffset": 2335,
-                        "endColumn": 110,
-                        "endOffset": 2441
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 334,
-                    "endColumn": 120,
-                    "endOffset": 450
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 2067,
-                        "endColumn": 120,
-                        "endOffset": 2183
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 455,
-                    "endColumn": 92,
-                    "endOffset": 543
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1974,
-                        "endColumn": 92,
-                        "endOffset": 2062
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 548,
-                    "endColumn": 70,
-                    "endOffset": 614
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1238,
-                        "endColumn": 70,
-                        "endOffset": 1304
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 619,
-                    "endColumn": 71,
-                    "endOffset": 686
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 1166,
-                        "endColumn": 71,
-                        "endOffset": 1233
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 691,
-                    "endColumn": 69,
-                    "endOffset": 756
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 1904,
-                        "endColumn": 69,
-                        "endOffset": 1969
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 761,
-                    "endColumn": 71,
-                    "endOffset": 828
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 1832,
-                        "endColumn": 71,
-                        "endOffset": 1899
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 833,
-                    "endColumn": 75,
-                    "endOffset": 904
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 1387,
-                        "endColumn": 75,
-                        "endOffset": 1458
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 909,
-                    "endColumn": 92,
-                    "endOffset": 997
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 1463,
-                        "endColumn": 92,
-                        "endOffset": 1551
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1002,
-                    "endColumn": 77,
-                    "endOffset": 1075
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1754,
-                        "endColumn": 77,
-                        "endOffset": 1827
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1080,
-                    "endColumn": 77,
-                    "endOffset": 1153
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 1309,
-                        "endColumn": 77,
-                        "endOffset": 1382
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1158,
-                    "endColumn": 89,
-                    "endOffset": 1243
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 1556,
-                        "endColumn": 89,
-                        "endOffset": 1641
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1248,
-                    "endColumn": 107,
-                    "endOffset": 1351
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1646,
-                        "endColumn": 107,
-                        "endOffset": 1749
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1356,
-                    "endColumn": 63,
-                    "endOffset": 1415
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 2513,
-                        "endColumn": 63,
-                        "endOffset": 2572
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1420,
-                    "endColumn": 66,
-                    "endOffset": 1482
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 2446,
-                        "endColumn": 66,
-                        "endOffset": 2508
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1487,
-                    "endColumn": 146,
-                    "endOffset": 1629
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\strings.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 2188,
-                        "endColumn": 146,
-                        "endOffset": 2330
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1634,
-                    "endColumn": 60,
-                    "endOffset": 1690
-                },
-                "from": {
-                    "file": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\src\\main\\res\\values-gu\\messenger_button_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 2,
-                        "startOffset": 1164,
-                        "endColumn": 58,
-                        "endOffset": 1220
+                        "endOffset": 1242
                     }
                 }
             }

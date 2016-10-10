@@ -1,26 +1,10 @@
 [
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

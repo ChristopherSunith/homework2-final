@@ -1,134 +1,46 @@
 [
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\com_facebook_button_text_color.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\bundles\\debug\\res\\color\\com_facebook_button_text_color.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\com_facebook_send_button_text_color.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\bundles\\debug\\res\\color\\com_facebook_send_button_text_color.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\com_facebook_send_button_text_color.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\bundles\\debug\\res\\color\\com_facebook_send_button_text_color.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\com_facebook_button_text_color.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\bundles\\debug\\res\\color\\com_facebook_button_text_color.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\com_facebook_button_text_color.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\bundles\\debug\\res\\color\\com_facebook_button_text_color.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\com_facebook_button_text_color.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\bundles\\debug\\res\\color\\com_facebook_button_text_color.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\com_facebook_send_button_text_color.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework1-master\\facebook\\build\\intermediates\\bundles\\debug\\res\\color\\com_facebook_send_button_text_color.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\com_facebook_send_button_text_color.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\bundles\\debug\\res\\color\\com_facebook_send_button_text_color.xml"
-    },
-    {
-        "merged": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "E:\\ProjectJeb\\homework 2\\v5\\homework1-master\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\samso\\AndroidStudioProjects\\homework2-final\\facebook\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     }
 ]
