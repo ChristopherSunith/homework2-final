@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="dialog_delete_title">Delete an item</string>
+    <string name="dialog_delete_msg">Do you want to delete this item?</string>
+    <string name="delete">YES</string>
+    <string name="cancel">NO</string>
+    <string name="edit">Add/Edit</string>
+    <string name="dialog_give_up_title">Give up operation</string>
+    <string name="dialog_give_up_msg">Are you sure to give up this edit? Your unsaved edit will be discarded by click YES.</string>
+    <string name="app_id">1772510446369796</string>
+    <string name="goog_app_id">AIzaSyCRpxj-SJaIOmtYSmFTi_7oJ7Xj1VikYz0</string>
+    <string name="google_play_services_version">9.6.1</string>
+</resources>
